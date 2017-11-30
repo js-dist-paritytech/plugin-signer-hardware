@@ -1,2 +1,1 @@
-# plugin-signer-hardware
-CI-only
+ 1.1.1 (20171130-152816)
