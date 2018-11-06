@@ -14,7 +14,9 @@
 
 
 
-var _ConfirmViaHardware = require('./ConfirmViaHardware');var _ConfirmViaHardware2 = _interopRequireDefault(_ConfirmViaHardware);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}exports.default = _ConfirmViaHardware2.default; // Copyright 2015-2017 Parity Technologies (UK) Ltd.
+var _ConfirmViaHardware = require('./ConfirmViaHardware');var _ConfirmViaHardware2 = _interopRequireDefault(_ConfirmViaHardware);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}exports.default =
+
+_ConfirmViaHardware2.default; // Copyright 2015-2017 Parity Technologies (UK) Ltd.
 // This file is part of Parity.
 // Parity is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
