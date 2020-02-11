@@ -1,6 +1,6 @@
 {
   "name": "@parity/plugin-signer-hardware",
-  "version": "1.1.82",
+  "version": "1.1.84",
   "description": "Signer plugin handler for sending transactions from hardware devices",
   "main": "index.js",
   "scripts": {
@@ -42,11 +42,11 @@
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-standard": "^4.0.1",
     "prop-types": "^15.7.2",
     "stylelint": "^12.0.1",
-    "stylelint-config-standard": "^19.0.0"
+    "stylelint-config-standard": "^20.0.0"
   },
   "dependencies": {
     "@parity/ui": "^3.1.29",
